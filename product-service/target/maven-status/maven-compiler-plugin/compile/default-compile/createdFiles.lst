@@ -1,0 +1,10 @@
+com/programmetechie/product_services/dto/ProductResponse$ProductResponseBuilder.class
+com/programmetechie/product_services/repository/ProductRepository.class
+com/programmetechie/product_services/model/Product.class
+com/programmetechie/product_services/service/ProductService.class
+com/programmetechie/product_services/ProductServicesApplication.class
+com/programmetechie/product_services/dto/ProductRequest.class
+com/programmetechie/product_services/dto/ProductResponse.class
+com/programmetechie/product_services/controller/ProductController.class
+com/programmetechie/product_services/dto/ProductRequest$ProductRequestBuilder.class
+com/programmetechie/product_services/model/Product$ProductBuilder.class

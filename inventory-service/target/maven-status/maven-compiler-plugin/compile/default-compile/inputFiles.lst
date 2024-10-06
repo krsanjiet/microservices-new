@@ -1,0 +1,6 @@
+/Users/sanjeetkr/Documents/microservices-parent/microservices-new/inventory-service/src/main/java/com/programmingtechie/inventory_services/InventoryServicesApplication.java
+/Users/sanjeetkr/Documents/microservices-parent/microservices-new/inventory-service/src/main/java/com/programmingtechie/inventory_services/controller/InventoryController.java
+/Users/sanjeetkr/Documents/microservices-parent/microservices-new/inventory-service/src/main/java/com/programmingtechie/inventory_services/dto/InventoryResponse.java
+/Users/sanjeetkr/Documents/microservices-parent/microservices-new/inventory-service/src/main/java/com/programmingtechie/inventory_services/model/Inventory.java
+/Users/sanjeetkr/Documents/microservices-parent/microservices-new/inventory-service/src/main/java/com/programmingtechie/inventory_services/repository/InventoryRepository.java
+/Users/sanjeetkr/Documents/microservices-parent/microservices-new/inventory-service/src/main/java/com/programmingtechie/inventory_services/service/InventoryService.java

@@ -1,0 +1,7 @@
+/Users/sanjeetkr/Documents/microservices-parent/microservices-new/product-service/src/main/java/com/programmetechie/product_services/ProductServicesApplication.java
+/Users/sanjeetkr/Documents/microservices-parent/microservices-new/product-service/src/main/java/com/programmetechie/product_services/controller/ProductController.java
+/Users/sanjeetkr/Documents/microservices-parent/microservices-new/product-service/src/main/java/com/programmetechie/product_services/dto/ProductRequest.java
+/Users/sanjeetkr/Documents/microservices-parent/microservices-new/product-service/src/main/java/com/programmetechie/product_services/dto/ProductResponse.java
+/Users/sanjeetkr/Documents/microservices-parent/microservices-new/product-service/src/main/java/com/programmetechie/product_services/model/Product.java
+/Users/sanjeetkr/Documents/microservices-parent/microservices-new/product-service/src/main/java/com/programmetechie/product_services/repository/ProductRepository.java
+/Users/sanjeetkr/Documents/microservices-parent/microservices-new/product-service/src/main/java/com/programmetechie/product_services/service/ProductService.java

@@ -1,0 +1,11 @@
+com/programmingtechie/order_services/repository/OrderRepository.class
+com/programmingtechie/order_services/OrderServicesApplication.class
+com/programmingtechie/order_services/dto/OrderRequest.class
+com/programmingtechie/order_services/config/WebClientConfig.class
+com/programmingtechie/order_services/model/Order.class
+com/programmingtechie/order_services/dto/OrderLineItemsDto.class
+com/programmingtechie/order_services/dto/InventoryResponse.class
+com/programmingtechie/order_services/service/OrderService.class
+com/programmingtechie/order_services/model/OrderLineItems.class
+com/programmingtechie/order_services/dto/InventoryResponse$InventoryResponseBuilder.class
+com/programmingtechie/order_services/controller/OrderController.class
